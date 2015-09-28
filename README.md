@@ -4,12 +4,14 @@ This repository is contains information related to the tool XMLMate presented Fo
 
 This repository is not the original repository for this tool. Here are some links to the original project:
 
-    The Official Project Page, including data set [link](https://www.st.cs.uni-saarland.de/testing/xmlmate/).
-    A Video of the Tool [link](https://www.youtube.com/watch?v=-yKom5mbft0).  
+The Official Project Page, including data set [paper](https://www.st.cs.uni-saarland.de/testing/xmlmate/)
+
+A Video of the Tool [link](https://www.youtube.com/watch?v=-yKom5mbft0).  
 
 In this repository, for XMLMate you will find:
 
-    :x: Source code (not available)
-    :white_check_mark: The original tool (available)
+:x: Source code (not available)
+
+:white_check_mark: The original tool (available)
 
 This repository was constructed by Abhishek Kumar under the supervision of Emerson Murphy-Hill. Thanks to Nikolas Havrikov for his help in establishing this repository. 
