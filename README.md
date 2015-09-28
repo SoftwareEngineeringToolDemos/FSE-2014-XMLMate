@@ -1,6 +1,6 @@
 # FSE_2014-XMLMate
 
-This repository is contains information related to the tool XMLMate presented Foundations of Software Engineering, 2014. The tool was originally presented in this [paper](https://www.st.cs.uni-saarland.de/testing/xmlmate/).
+This repository contains information related to the tool XMLMate presented in Foundations of Software Engineering, 2014. The tool was originally presented in this [paper](https://www.st.cs.uni-saarland.de/testing/xmlmate/).
 
 This repository is not the original repository for this tool. Here are some links to the original project:
 
