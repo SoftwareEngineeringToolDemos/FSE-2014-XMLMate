@@ -14,4 +14,4 @@ In this repository, for XMLMate you will find:
 
 :white_check_mark: The original tool (available)
 
-This repository was constructed by Abhishek Kumar under the supervision of Emerson Murphy-Hill. Thanks to Nikolas Havrikov for his help in establishing this repository. 
+This repository was constructed by [Abhishek Kumar](https://github.com/akumar21) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Nikolas Havrikov for his help in establishing this repository. 
