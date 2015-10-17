@@ -1,6 +1,6 @@
-# FSE_2014-XMLMate
+# FSE-2014-XMLMate
 
-This repository contains information related to the tool XMLMate presented in Foundations of Software Engineering, 2014. The tool was originally presented in this [paper](https://www.st.cs.uni-saarland.de/testing/xmlmate/).
+This repository contains information related to the tool XMLMate presented in Foundations of Software Engineering, 2014. The tool was originally presented in this [paper](http://dl.acm.org/citation.cfm?doid=2635868.2661666).
 
 This repository is not the original repository for this tool. Here are some links to the original project:
 
@@ -14,4 +14,4 @@ In this repository, for XMLMate you will find:
 
 :white_check_mark: The original tool (available)
 
-This repository was constructed by Abhishek Kumar under the supervision of Emerson Murphy-Hill. Thanks to Nikolas Havrikov for his help in establishing this repository. 
+This repository was constructed by [Abhishek Kumar](https://github.com/akumar21) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Nikolas Havrikov for his help in establishing this repository. 
