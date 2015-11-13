@@ -13,7 +13,7 @@
  Username: vagrant<br/>
  Password: vagrant
 
-# Acknoledgments:
+# Acknowledgments:
 
 The base box was taken from [https://vagrantcloud.com/rudolfochrist/boxes/ubuntu-desktop](https://vagrantcloud.com/rudolfochrist/boxes/ubuntu-desktop).<br/>
 Configuration details were taken from [https://docs.vagrantup.com/v2/vagrantfile/machine_settings.html](https://docs.vagrantup.com/v2/vagrantfile/machine_settings.html)
