@@ -10,10 +10,8 @@ A [Video of the Tool](https://www.youtube.com/watch?v=-yKom5mbft0)
 
 In this repository, for XMLMate you will find:
 
-:x: Source code (not available)
-
-:white_check_mark: The [original tool](https://github.com/SoftwareEngineeringToolDemos/FSE_2014-XMLMate/blob/master/xmlmate.tar.gz) (available)
-
-:white_check_mark: [Virtual machine containing tool](https://drive.google.com/open?id=0Byo7aDt60UaoTHMxYXBZUnAxN1k)
+* Source code (not available)
+* :white_check_mark: The [original tool](https://github.com/SoftwareEngineeringToolDemos/FSE_2014-XMLMate/blob/master/xmlmate.tar.gz) (available)
+* :white_check_mark: [Virtual machine containing tool](http://go.ncsu.edu/SE-tool-VMs)
 
 This repository was constructed by [Abhishek Kumar](https://github.com/akumar21) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Nikolas Havrikov for his help in establishing this repository.
